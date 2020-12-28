@@ -1,0 +1,4 @@
+C:\Users\rnattama\Documents\UiPath\MCE\Udemy-BryanLamb-Level1\textfiles\doc1.txt contained textI have text
+C:\Users\rnattama\Documents\UiPath\MCE\Udemy-BryanLamb-Level1\textfiles\doc2.txt was empty
+C:\Users\rnattama\Documents\UiPath\MCE\Udemy-BryanLamb-Level1\textfiles\doc3.txt was empty
+C:\Users\rnattama\Documents\UiPath\MCE\Udemy-BryanLamb-Level1\textfiles\open me.txt was empty

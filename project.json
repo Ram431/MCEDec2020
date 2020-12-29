@@ -1,7 +1,7 @@
 {
   "name": "MCEDec2020-Git",
   "description": "Blank Process",
-  "main": "Udemy-BryanLamb-Level2\\BuildSimpleRobot\\ExcelCustomersToWebsite.xaml",
+  "main": "Udemy-BryanLamb-Level2\\ShouldStopDemo.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -50,6 +50,12 @@
     {
       "filePath": "Udemy-BryanLamb-Level2\\BuildSimpleRobot\\ExcelCustomersToWebsite.xaml",
       "uniqueId": "add860ed-663b-4055-8d5f-bcba4dcc6c8e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-BryanLamb-Level2\\ShouldStopDemo.xaml",
+      "uniqueId": "6e363c60-84a1-4385-a210-aef37177430f",
       "input": [],
       "output": []
     }

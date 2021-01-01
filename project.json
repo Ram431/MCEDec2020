@@ -1,7 +1,7 @@
 {
   "name": "MCEDec2020-Git",
   "description": "Blank Process",
-  "main": "Udemy-BryanLamb-Level2\\BuildSimpleRobot-Finish\\ExcelCustomersToWebsite.xaml",
+  "main": "Udemy-RahulShetty\\Ch25to30RobotConcession.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -62,6 +62,54 @@
     {
       "filePath": "Udemy-BryanLamb-Level2\\BuildSimpleRobot-Finish\\ExcelCustomersToWebsite.xaml",
       "uniqueId": "8578cb73-dcd2-4c29-87f5-f3c13a2932bb",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch10-NotepadtowordCopy.xaml",
+      "uniqueId": "0495a40e-4957-4eba-8ffd-0002d6ed2f89",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch12GetTextfromBrowser.xaml",
+      "uniqueId": "13888f56-07d6-4f19-b379-536ba2abce57",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch13GetTextfromImages.xaml",
+      "uniqueId": "fdd248da-7671-441f-b7c7-9960d42082a5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch14GetTextfromNotepadorfile.xaml",
+      "uniqueId": "6a3d5de6-4ae9-4ebd-b3a1-bd14c588860e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch16-GDPCheck-RBT.xaml",
+      "uniqueId": "fe4c13a6-b7a0-4210-b7d7-de7d819d1746",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch22-ReadWriteExcel.xaml",
+      "uniqueId": "35bd6d52-aa49-4472-ac5b-c5d673f1fab8",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch2324ReadExceltoDatatable.xaml",
+      "uniqueId": "bae4ec80-7768-4b45-9a28-f80c276ac0f5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch25to30RobotConcession.xaml",
+      "uniqueId": "c5070435-b712-4440-b04a-a94acceee409",
       "input": [],
       "output": []
     }

@@ -1,10 +1,11 @@
 {
   "name": "MCEDec2020-Git",
   "description": "Blank Process",
-  "main": "Udemy-RahulShetty\\Ch25to30RobotConcession.xaml",
+  "main": "Udemy-RahulShetty\\Ch3541ScanPDFRobot.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
+    "UiPath.PDF.Activities": "[3.3.0]",
     "UiPath.System.Activities": "[20.10.1]",
     "UiPath.UIAutomation.Activities": "[20.10.6]"
   },
@@ -110,6 +111,30 @@
     {
       "filePath": "Udemy-RahulShetty\\Ch25to30RobotConcession.xaml",
       "uniqueId": "c5070435-b712-4440-b04a-a94acceee409",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch3132ReadPDFTOText.xaml",
+      "uniqueId": "2c3037db-9a03-4f69-a51f-e0f98a5235d9",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch33ReadPDFOCRTOText.xaml",
+      "uniqueId": "87196553-1ec6-462e-aaa6-795ffcd938c7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch34ExtractPDFusingGetText.xaml",
+      "uniqueId": "00cb1e89-c8e7-4af9-9d29-13ca6d523586",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch3541ScanPDFRobot.xaml",
+      "uniqueId": "1bdb6503-da89-4e32-a6ac-99ce69bcb076",
       "input": [],
       "output": []
     }

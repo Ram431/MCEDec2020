@@ -1,7 +1,7 @@
 {
   "name": "MCEDec2020-Git",
   "description": "Blank Process",
-  "main": "Udemy-RahulShetty\\Ch3541ScanPDFRobot.xaml",
+  "main": "Udemy-RahulShetty\\Ch51emailwithAttachmentRobot.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -135,6 +135,30 @@
     {
       "filePath": "Udemy-RahulShetty\\Ch3541ScanPDFRobot.xaml",
       "uniqueId": "1bdb6503-da89-4e32-a6ac-99ce69bcb076",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch43TryCatch.xaml",
+      "uniqueId": "56d1174c-e631-4a2f-9d7d-bf70cc4d0ff4",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch5459LoanOfferRobot.xaml",
+      "uniqueId": "61ff6093-4acc-4d88-b72b-3f71bbee60ad",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch49mailRobot.xaml",
+      "uniqueId": "2e810dfa-df20-4430-88da-3c0fba2125af",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-RahulShetty\\Ch51emailwithAttachmentRobot.xaml",
+      "uniqueId": "1b4c74a1-105a-40f1-942f-25dfe945b83e",
       "input": [],
       "output": []
     }

@@ -1,7 +1,7 @@
 {
   "name": "MCEDec2020-Git",
   "description": "Blank Process",
-  "main": "Udemy-RahulShetty\\Ch51emailwithAttachmentRobot.xaml",
+  "main": "Udemy-LeonPetrou\\Ch107125_Robot7_EmailAutomation.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -159,6 +159,72 @@
     {
       "filePath": "Udemy-RahulShetty\\Ch51emailwithAttachmentRobot.xaml",
       "uniqueId": "1b4c74a1-105a-40f1-942f-25dfe945b83e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch23Arguments-main.xaml",
+      "uniqueId": "ce064190-7f1d-49bd-a80f-4f391bca8383",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch23Arguments-another.xaml",
+      "uniqueId": "6da72ec2-e871-4598-8143-c11133f37c0f",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch2738ClothingConsultantRobot1.xaml",
+      "uniqueId": "1a565723-4c9f-4656-b112-6e041e98c80d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Robot7_EmailAutomation.xaml",
+      "uniqueId": "7b83540a-ab5a-4270-b846-4f6193d84db0",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch6683RealEstateWebScrappingRobot4.xaml",
+      "uniqueId": "bda10713-320c-4787-8458-42576b47d4a5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch107125EmailAutomation.xaml",
+      "uniqueId": "58239d4e-4429-4e30-91f1-476ab645cdd6",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch3954_Robot2_DataCapturing.xaml",
+      "uniqueId": "b8fe3f81-bb7a-4f76-bbda-fb51454a2e2e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch3954_Robot2_WebDataCapturing.xaml",
+      "uniqueId": "9b9aa8f3-ced9-46a0-b719-042112d830d5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch3954_Robot2_DesktopDataCapturing.xaml",
+      "uniqueId": "35ae3bb7-6035-4f16-a806-bd1240b99d7d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch3954_Robot2_DataCapturing_main.xaml",
+      "uniqueId": "3948d290-5428-4761-9358-745b3cd0b865",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch107125_Robot7_EmailAutomation.xaml",
+      "uniqueId": "9fb46d1b-253a-47ee-95e5-8ba56878f8fb",
       "input": [],
       "output": []
     }

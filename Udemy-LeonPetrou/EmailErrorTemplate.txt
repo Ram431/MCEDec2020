@@ -1,0 +1,8 @@
+Dear Human, 
+Unusal activity has been detected on the system at {0}
+
+Error Messages:
+{1}
+
+Regards
+Email Automation Robot

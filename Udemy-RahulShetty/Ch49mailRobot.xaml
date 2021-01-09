@@ -70,7 +70,7 @@
     <ui:GetPassword DisplayName="Get Password" sap:VirtualizedContainerService.HintSize="641,22" sap2010:WorkflowViewState.IdRef="GetPassword_1" ProtectedPassword="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0ARu96YSPU6Y/hnGAYTtbwAAAAACAAAAAAADZgAAwAAAABAAAAAx2heU6Dty14Ecu/KPvegvAAAAAASAAACgAAAAEAAAAHWQY/OCcakXgCTkJagc4ewYAAAAtVZObf37NnIPmLMrnG9MRdQZJCxoBItCFAAAAPgsnJCGAgR6SGqLN5Zyi4sHJCfj" Result="[pwd]" />
     <ui:Delete ContinueOnError="{x:Null}" sap:VirtualizedContainerService.HintSize="641,22" sap2010:WorkflowViewState.IdRef="Delete_1" Path="Udemy-RahulShetty\FromDetails.txt" />
     <ui:GetIMAPMailMessages TimeoutMS="{x:Null}" DeleteMessages="False" DisplayName="Get IMAP Mail Messages" Email="ramntsundar@gmail.com" EnableSSL="True" sap:VirtualizedContainerService.HintSize="641,22" sap2010:WorkflowViewState.IdRef="GetIMAPMailMessages_1" MailFolder="Inbox" MarkAsRead="True" Messages="[mailList]" OnlyUnreadMessages="False" Password="[pwd]" Port="993" SecureConnection="Auto" Server="imap.gmail.com" Top="5" />
-    <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="641,918" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[mailList]">
+    <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="641,918" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[mailList]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="snm:MailMessage">
           <ActivityAction.Argument>

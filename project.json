@@ -1,7 +1,7 @@
 {
   "name": "MCEDec2020-Git",
   "description": "Blank Process",
-  "main": "Udemy-LeonPetrou\\Ch107125_Robot7_EmailAutomation.xaml",
+  "main": "Udemy-LeonPetrou\\Ch8496_Robot5_PDFInvoiceDataScrapping.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -225,6 +225,18 @@
     {
       "filePath": "Udemy-LeonPetrou\\Ch107125_Robot7_EmailAutomation.xaml",
       "uniqueId": "9fb46d1b-253a-47ee-95e5-8ba56878f8fb",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch5664_Robot3_AutomationChallenge.xaml",
+      "uniqueId": "800e7775-155e-4ebf-885a-972d9570c0bb",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Udemy-LeonPetrou\\Ch8496_Robot5_PDFInvoiceDataScrapping.xaml",
+      "uniqueId": "39e7ed1d-704a-4c84-beb2-be150c6c5b68",
       "input": [],
       "output": []
     }
